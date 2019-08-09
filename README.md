@@ -1,5 +1,5 @@
 
-# Quizzler ❓
+# flutter_quizzler_app ❓
 - a simple quiz app 
 
 ## App functions 
